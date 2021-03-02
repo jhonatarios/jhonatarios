@@ -7,7 +7,7 @@
 **About Me:**
 
 - I’m currently working on __ADATA Brazil__.
-- I’m currently learning __Flutter__, __JavaScript__, & __Python__.
+- I’m currently learning __Python__ & __Flutter__.
 - Fun-Fact: I stopped for a while with programming and spent about 3 years working with audio engineering.
 - How to get in touch: __jhowrk@gmail.com__
 
@@ -18,7 +18,6 @@
 <p>
   <code><img width="5%" src="https://www.flaticon.com/svg/static/icons/svg/732/732212.svg"></code>
   <code><img width="5%" src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg"></code>
-  <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/javascript.svg"></code>
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/dart.svg"></code>
   <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"></code>
 </p>

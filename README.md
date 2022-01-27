@@ -6,8 +6,8 @@
 
 **About Me:**
 
-- I’m currently working on __ADATA Brazil__.
-- I’m currently learning __Python__, __HTML5/CSS3__ & __Flutter__.
+
+- I’m currently learning __Unity__, __C#__ & __Photoshop__.
 - Fun-Fact: I stopped for a while with programming and spent about 3 years working with audio engineering.
 - How to get in touch: __jhowrk@gmail.com__
 

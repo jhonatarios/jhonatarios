@@ -16,7 +16,7 @@
 **Languages and Tools:**
 
 <p>
-  <code><img width="5%" src="https://cdn-icons-png.flaticon.com/512/5969/5969205.png"></code>
+  <code><img width="5%" src="https://user-images.githubusercontent.com/25331232/28385575-9d11e2be-6c96-11e7-9883-dad6ea89ba23.png"></code>
   <code><img width="5%" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png"></code>
   <code><img width="5%" src="https://cdn-icons.flaticon.com/png/512/3098/premium/3098090.png?token=exp=1643282496~hmac=948e0d11990e8653ccbe77582363b9d3"></code>
   <code><img width="5%" src="https://cdn-icons-png.flaticon.com/512/888/888859.png"></code>

@@ -1,19 +1,22 @@
-## Hello, I'm Jhonata Rios!
+## Olá, meu nome é Jhonata Rios!
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://jhonatarios.com)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/jhonatarios)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatarios/)
 
 **About Me:**
 
 
-- I’m currently learning __Unity__, __C#__ & __Photoshop__.
-- Fun-Fact: I stopped for a while with programming and spent about 3 years working with audio engineering.
-- How to get in touch: __jhowrk@gmail.com__
+Formado em TI pela ETEC e em Análise e Desenvolvimento de Sistemas pela Anhanguera, atualmente buscando uma oportunidade de entrar no mercado de tecnologia.
+
+No meu tempo livre busco ser mais produtivo, buscando aprender mais sobre novas tecnologias e novas maneiras de implementa-las.
+
+Tive experiência como criador de conteúdo durante alguns períodos, também passei cerca de 3 anos como engenheiro de áudio.
+
+Sobre meus gostos pessoais, jogos, carros e anime são o principal de tudo, já programação é algo que gosto desde cedo e levo com facilidade desde então, acabou virando um hobby também.
 
 ---
 
-**Languages and Tools:**
+**Linguagens e Ferramentas:**
 
 <p>
   <code><img width="5%" src="https://user-images.githubusercontent.com/25331232/28385575-9d11e2be-6c96-11e7-9883-dad6ea89ba23.png"></code>

@@ -1,37 +1,28 @@
-## Olá, meu nome é Jhonata Rios!
+<h1>👋 &nbsp;Olá, meu nome é Jhonata Rios!</h1>
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/jhonatarios)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatarios/)
-
-**About Me:**
-
-
-Formado em TI pela ETEC e em Análise e Desenvolvimento de Sistemas pela Anhanguera, atualmente buscando uma oportunidade de entrar no mercado de tecnologia.
-
-No meu tempo livre busco ser mais produtivo, buscando aprender mais sobre novas tecnologias e novas maneiras de implementa-las.
-
-Tive experiência como criador de conteúdo durante alguns períodos, também passei cerca de 3 anos como engenheiro de áudio.
-
-Sobre meus gostos pessoais, jogos, carros e anime são o principal de tudo, já programação é algo que gosto desde cedo e levo com facilidade desde então, acabou virando um hobby também.
-
----
-
-**Linguagens e Ferramentas:**
-
-<p>
-  <code><img width="5%" src="https://user-images.githubusercontent.com/25331232/28385575-9d11e2be-6c96-11e7-9883-dad6ea89ba23.png"></code>
-  <code><img width="5%" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png"></code>
-  <code><img width="5%" src="https://cdn-icons.flaticon.com/png/512/3098/premium/3098090.png?token=exp=1643282496~hmac=948e0d11990e8653ccbe77582363b9d3"></code>
-  <code><img width="5%" src="https://cdn-icons-png.flaticon.com/512/888/888859.png"></code>
-  <code><img width="5%" src="https://cdn-icons-png.flaticon.com/512/919/919826.png"></code>
-</p>
-<p>
-  <code><img width="5%" src="https://cdn-icons.flaticon.com/png/512/2721/premium/2721635.png?token=exp=1643282755~hmac=39a9ccb8dddff4906fef1baf6e6d164e"></code>
-  <code><img width="5%" src="https://cdn-icons.flaticon.com/png/512/3097/premium/3097978.png?token=exp=1643282781~hmac=3ac737a1fc15795d9dee4eaa41b8ae2a"></code>
-  <code><img width="5%" src="https://icon-library.com/images/ableton-icon/ableton-icon-0.jpg"></code>
-  <code><img width="5%" src="https://cdn-icons.flaticon.com/png/512/5210/premium/5210800.png?token=exp=1643282667~hmac=bb92e1dffeba0cfb8050e8c0e93cdff7"></code>
-  <code><img width="5%" src="https://cdn2.iconfinder.com/data/icons/circular-icon-set/256/Sony_Vegas_Pro.png"></code>
+<p align="center">
+<a href="https://jhonatarios.github.io"><img src="https://img.shields.io/badge/-jhonatarios.github.io-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jhonatarios/"><img src="https://img.shields.io/badge/-Jhonata%20Viana%20Rios-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:jhowrk@gmail.com"><img src="https://img.shields.io/badge/-jhowrk@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
----
+<h2> 👨🏻‍💻 &nbsp;Sobre: </h2>
+
+- 👨🏻‍💻 &nbsp; Eu tive meu primeiro contato com linhas de código aos 7 anos de idade, já desde novo era apaixonado por animes e queria fazer um site de animes. Ao longo dos anos fui aprendendo realmente como que era e junto com alguns outros amigos fomos responsaveis por fazer o design de varios sites de anime que ficaram famosos na epoca, e são conhecidos até hoje por muitos. Infelizmente no meio desse caminho, parando e voltando as linhas de codigo para tentar outras oportunidades, hoje estou focado e determinado em trilhar essa carreira.
+- 💚 &nbsp; Tive experiência como criador de conteúdo durante alguns períodos, também passei cerca de 3 anos como engenheiro de áudio, são experiências que agregam muito ao meu conhecimento geral, podendo auxiliar em alguns determinados projetos.
+- 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira é desenvolvimento web front end. Utilizo JavaScript (React) para desenvolver atualmente.
+- 🏎 &nbsp; Sou apaixonado por automobilismo, especialmente por Drift, costumava correr em montanhas com amigos no simulador. 
+- (◕‿◕) &nbsp; Como já deu para perceber no inicio, sou bastante apaixonado por anime também..
+
+<h3>💻 &nbsp;Minha stack:</h3>
+
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+
+<h2>🚀 &nbsp;Um pouco mais sobre o meu perfil aqui no GitHub</h2>
+
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatarios&theme=dark&show_icons=true&layout=compact)

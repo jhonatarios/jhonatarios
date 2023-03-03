@@ -10,7 +10,7 @@
 
 - 👨🏻‍💻 &nbsp; Eu tive meu primeiro contato com linhas de código aos 7 anos de idade, já desde novo era apaixonado por animes e queria fazer um site de animes. Ao longo dos anos fui aprendendo realmente como que era e junto com alguns outros amigos fomos responsáveis por fazer o design de vários sites de anime que ficaram famosos na época, e são conhecidos até hoje por muitos. Infelizmente no meio desse caminho, parando e voltando as linhas de código para tentar outras oportunidades, hoje estou focado e determinado em trilhar essa carreira.
 - 💚 &nbsp; Tive experiência como criador de conteúdo durante alguns períodos, também passei cerca de 3 anos como engenheiro de áudio, são experiências que agregam muito ao meu conhecimento geral, podendo auxiliar em alguns determinados projetos.
-- 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira é desenvolvimento web front end. Utilizo JavaScript (React) para desenvolver atualmente.
+- 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira é desenvolvimento web front end.
 - 🏎 &nbsp; Sou apaixonado por automobilismo, especialmente por Drift, costumava correr em montanhas com amigos no simulador. 
 - (◕‿◕) &nbsp; Como já deu para perceber no inicio, sou bastante apaixonado por anime também.
 
@@ -19,9 +19,6 @@
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil aqui no GitHub</h2>
 

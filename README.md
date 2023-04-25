@@ -11,6 +11,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
 
-<h2>🚀 &nbsp;Um pouco mais sobre o meu perfil aqui no GitHub</h2>
+<h3>🚀 &nbsp;Um pouco mais sobre o meu perfil aqui no GitHub</h3>
 
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatarios&theme=dark&show_icons=true&layout=compact)
+
+<a href="https://www.buymeacoffee.com/jhowrios"><b>Buy me a coffee ☕<b></a>
+
+

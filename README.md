@@ -6,10 +6,11 @@
 
 <h3>💻 &nbsp;Minha stack:</h3>
 
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
+
 
 <h3>🚀 &nbsp;Um pouco mais sobre o meu perfil aqui no GitHub</h3>
 

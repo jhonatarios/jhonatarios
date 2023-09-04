@@ -1,21 +1,32 @@
-<h1>👋 &nbsp;Olá, meu nome é Jhonata Rios!</h1>
+# Hi there! 👋 I'm Jhonata
 
-<!-- <a href="https://jhonatarios.github.io"><img src="https://img.shields.io/badge/-jhonatarios.github.io-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a> -->
-<a href="https://www.linkedin.com/in/jhonatarios/"><img src="https://img.shields.io/badge/-Jhonata%20Viana%20Rios-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:jhowrk@icloud.com"><img src="https://img.shields.io/badge/-jhowrk@icloud.com-D14836?style=flat-square&logo=Icloud&logoColor=white"/></a>
+I'm a passionate Software Engineering student with a strong focus on native mobile development. Currently studying Java and Kotlin while also having expertise in React Native. I'm dedicated to expanding my knowledge and skills in the world of software development.
 
-<h3>💻 &nbsp;Minha stack:</h3>
+## 🔧 About Me
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+I've always been fascinated by technology and its transformative potential. Exploring computers and understanding how software works has been my lifelong passion. This curiosity led me to pursue a degree in Software Engineering, and I'm loving every moment of the journey.
 
+## 💻 Technical Skills
 
-<h3>🚀 &nbsp;Um pouco mais sobre o meu perfil aqui no GitHub</h3>
+- Programming Languages: Java, Kotlin, JavaScript (React Native)
+- Web Development: HTML, CSS
+- Mobile App Development: Native (Java/Kotlin), Cross-Platform (React Native)
 
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatarios&theme=dark&show_icons=true&layout=compact)
 
-<a href="https://www.buymeacoffee.com/jhowrios"><b>Buy me a coffee ☕<b></a>
+## 🌟 Continuous Learning
 
+I'm committed to continuous improvement and growth. I'm actively working on enhancing my language proficiency, aiming for effective communication as a key skill for collaboration. I'm also keen on staying updated with the latest trends in software development.
+
+## 🚀 Future Goals
+
+As a Software Engineering student, I'm excited about the potential to contribute to innovative projects that positively impact people's lives. My interests span across mobile app development, artificial intelligence, and cybersecurity. Ultimately, I aspire to become a skilled software engineer crafting robust and user-friendly applications.
+
+## 🤝 Let's Connect
+
+I'm open to connecting with fellow students, professionals, and mentors in the software engineering field. Whether it's discussing new technologies, sharing experiences, or exploring potential collaborations, I'm always eager to learn and grow together.
+
+You can find more about me and my projects on [GitHub](https://github.com/jhonatarios). Feel free to reach out via email at jhowrk@icloud.com.
+
+Thank you for visiting my profile!
 

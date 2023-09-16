@@ -8,9 +8,9 @@ I've always been fascinated by technology and its transformative potential. Expl
 
 ## 💻 Technical Skills
 
-- Programming Languages: Java, Kotlin, JavaScript (React Native)
-- Web Development: HTML, CSS
-- Mobile App Development: Native (Java/Kotlin), Cross-Platform (React Native)
+- Programming Languages: Kotlin, Java, JavaScript
+- Web Development: HTML, CSS, Angular
+- Mobile App Development: Native (Java/Kotlin)
 
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatarios&theme=dark&show_icons=true&layout=compact)
 

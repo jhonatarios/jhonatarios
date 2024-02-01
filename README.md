@@ -1,30 +1,11 @@
-# Hello! 👋 I'm Jhonata
+Software Engineer, focused, disciplined and consistent cybersecurity enthusiast looking for his first opportunity.
 
-passionate Software Engineering student on a journey to explore the ever-evolving world of technology. Currently, I'm pursuing my degree in Software Engineering, with a profound interest in crafting innovative solutions and experiences through code. 🎓
+My current goal is to find my first opportunity in the technology market, not necessarily in the cybersecurity sector, but having the possibility of learning regardless of the area is something I will not refuse.
 
-## 🔧 About Me
+I'm familiar with some programming languages, mainly web and mobile development, currently focusing my studies on cybersecurity and Python.
 
-Ever since I was a kid, I've been captivated by technology and its transformative power. My fascination with computers and software led me to choose Software Engineering as my academic path. I specialize in Python development and am passionate about cybersecurity. My academic journey has been a thrilling ride, and I can't wait to see where it takes me next.
+As a professional, I'm always looking to apply what I've learned, as well as developing it by passing it on to others or learning new skills.
 
-## 💻 Technical Proficiency:
-
-Python is my primary language, and I'm continuously honing my skills in this versatile language. My toolkit also includes cybersecurity, where I'm actively seeking certifications to further my expertise. I'm excited to apply these skills to real-world projects and challenges.
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatarios&theme=dark&show_icons=true&layout=compact)
-
-## 📚 Lifelong Learning:
-
-I'm committed to continuous improvement, both technically and linguistically. Effective communication is key for seamless collaboration in any team or project. I'm also on a quest to stay up-to-date with the latest trends in technology, and I'm actively seeking opportunities for skill enhancement.
-
-## 🚀 Future Aspirations
-
-As a Software Engineering student, I'm enthusiastic about the possibilities of contributing to groundbreaking projects that enrich people's lives. My interests primarily revolve around cybersecurity. My ultimate goal is to evolve into a proficient software engineer with expertise in cybersecurity.
-
-## 🤝 Let's Connect
-
-I'm open to connecting with fellow students, professionals, and mentors in the software engineering field. Whether it's discussing new technologies, sharing experiences, or exploring potential collaborations, I'm always eager to learn and grow together.
-
-You can find more about me and my projects on [GitHub](https://github.com/jhonatarios). Feel free to reach out via email at jhonatarios@proton.me.
-
-Thank you for visiting my profile!
+Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/jhonatarios/) or e-mail with ideas, proposals and suggestions.
+✉️ jhonatarios@proton.me
 
